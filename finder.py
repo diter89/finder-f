@@ -1,6 +1,4 @@
-# // find_idz Fbeh ...
-# 
-# // Khusus untuk link profil Facebook Lite atau m.fbeh
+ # // Khusus untuk link profil Facebook Lite atau m.fbeh
 
 import requests
 from bs4 import BeautifulSoup
